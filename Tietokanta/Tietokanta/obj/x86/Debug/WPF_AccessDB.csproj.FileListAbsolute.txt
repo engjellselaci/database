@@ -1,0 +1,52 @@
+D:\Nilesh\Tutorial\WPF_C#\CSharp_AccessDB\WPF_AccessDB\WPF_AccessDB\bin\Debug\WPF_AccessDB.exe
+D:\Nilesh\Tutorial\WPF_C#\CSharp_AccessDB\WPF_AccessDB\WPF_AccessDB\bin\Debug\WPF_AccessDB.pdb
+D:\Nilesh\Tutorial\WPF_C#\CSharp_AccessDB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\Tutorial\WPF_C#\CSharp_AccessDB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\MainWindow.baml
+D:\Nilesh\Tutorial\WPF_C#\CSharp_AccessDB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\MainWindow.g.cs
+D:\Nilesh\Tutorial\WPF_C#\CSharp_AccessDB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\App.g.cs
+D:\Nilesh\Tutorial\WPF_C#\CSharp_AccessDB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB_MarkupCompile.cache
+D:\Nilesh\Tutorial\WPF_C#\CSharp_AccessDB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.g.resources
+D:\Nilesh\Tutorial\WPF_C#\CSharp_AccessDB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.Properties.Resources.resources
+D:\Nilesh\Tutorial\WPF_C#\CSharp_AccessDB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Nilesh\Tutorial\WPF_C#\CSharp_AccessDB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Nilesh\Tutorial\WPF_C#\CSharp_AccessDB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.exe
+D:\Nilesh\Tutorial\WPF_C#\CSharp_AccessDB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.pdb
+D:\CodeScratcher\Articles\Articels_To_Publish\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.exe
+D:\CodeScratcher\Articles\Articels_To_Publish\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.pdb
+D:\CodeScratcher\Articles\Articels_To_Publish\WPF_AccessDB\WPF_AccessDB\bin\Debug\WPF_AccessDB.exe
+D:\CodeScratcher\Articles\Articels_To_Publish\WPF_AccessDB\WPF_AccessDB\bin\Debug\WPF_AccessDB.pdb
+D:\CodeScratcher\Articles\Articels_To_Publish\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CodeScratcher\Articles\Articels_To_Publish\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\MainWindow.baml
+D:\CodeScratcher\Articles\Articels_To_Publish\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\MainWindow.g.cs
+D:\CodeScratcher\Articles\Articels_To_Publish\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\App.g.cs
+D:\CodeScratcher\Articles\Articels_To_Publish\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB_MarkupCompile.cache
+D:\CodeScratcher\Articles\Articels_To_Publish\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.g.resources
+D:\CodeScratcher\Articles\Articels_To_Publish\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.Properties.Resources.resources
+D:\CodeScratcher\Articles\Articels_To_Publish\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CodeScratcher\Articles\Articels_To_Publish\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JAY\Desktop\WPF_Access_DB\WPF_Access_DB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.exe
+C:\Users\JAY\Desktop\WPF_Access_DB\WPF_Access_DB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.pdb
+C:\Users\JAY\Desktop\WPF_Access_DB\WPF_Access_DB\WPF_AccessDB\WPF_AccessDB\bin\Debug\WPF_AccessDB.exe
+C:\Users\JAY\Desktop\WPF_Access_DB\WPF_Access_DB\WPF_AccessDB\WPF_AccessDB\bin\Debug\WPF_AccessDB.pdb
+C:\Users\JAY\Desktop\WPF_Access_DB\WPF_Access_DB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JAY\Desktop\WPF_Access_DB\WPF_Access_DB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\MainWindow.baml
+C:\Users\JAY\Desktop\WPF_Access_DB\WPF_Access_DB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\MainWindow.g.cs
+C:\Users\JAY\Desktop\WPF_Access_DB\WPF_Access_DB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\App.g.cs
+C:\Users\JAY\Desktop\WPF_Access_DB\WPF_Access_DB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB_MarkupCompile.cache
+C:\Users\JAY\Desktop\WPF_Access_DB\WPF_Access_DB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.g.resources
+C:\Users\JAY\Desktop\WPF_Access_DB\WPF_Access_DB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.Properties.Resources.resources
+C:\Users\JAY\Desktop\WPF_Access_DB\WPF_Access_DB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JAY\Desktop\WPF_Access_DB\WPF_Access_DB\WPF_AccessDB\WPF_AccessDB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\add-edit-delete-data-in-wpf-with-access-database-code-scratcher\Add, Edit, Delete Data in WPF with Access Database - CODE SCRATCHER\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\add-edit-delete-data-in-wpf-with-access-database-code-scratcher\Add, Edit, Delete Data in WPF with Access Database - CODE SCRATCHER\WPF_AccessDB\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\add-edit-delete-data-in-wpf-with-access-database-code-scratcher\Add, Edit, Delete Data in WPF with Access Database - CODE SCRATCHER\WPF_AccessDB\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\add-edit-delete-data-in-wpf-with-access-database-code-scratcher\Add, Edit, Delete Data in WPF with Access Database - CODE SCRATCHER\WPF_AccessDB\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\add-edit-delete-data-in-wpf-with-access-database-code-scratcher\Add, Edit, Delete Data in WPF with Access Database - CODE SCRATCHER\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB_MarkupCompile.cache
+C:\Users\admin\Desktop\add-edit-delete-data-in-wpf-with-access-database-code-scratcher\Add, Edit, Delete Data in WPF with Access Database - CODE SCRATCHER\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.g.resources
+C:\Users\admin\Desktop\add-edit-delete-data-in-wpf-with-access-database-code-scratcher\Add, Edit, Delete Data in WPF with Access Database - CODE SCRATCHER\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.Properties.Resources.resources
+C:\Users\admin\Desktop\add-edit-delete-data-in-wpf-with-access-database-code-scratcher\Add, Edit, Delete Data in WPF with Access Database - CODE SCRATCHER\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\add-edit-delete-data-in-wpf-with-access-database-code-scratcher\Add, Edit, Delete Data in WPF with Access Database - CODE SCRATCHER\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\add-edit-delete-data-in-wpf-with-access-database-code-scratcher\Add, Edit, Delete Data in WPF with Access Database - CODE SCRATCHER\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.exe
+C:\Users\admin\Desktop\add-edit-delete-data-in-wpf-with-access-database-code-scratcher\Add, Edit, Delete Data in WPF with Access Database - CODE SCRATCHER\WPF_AccessDB\obj\x86\Debug\WPF_AccessDB.pdb
+C:\Users\admin\Desktop\add-edit-delete-data-in-wpf-with-access-database-code-scratcher\Add, Edit, Delete Data in WPF with Access Database - CODE SCRATCHER\WPF_AccessDB\bin\Debug\WPF_AccessDB.exe
+C:\Users\admin\Desktop\add-edit-delete-data-in-wpf-with-access-database-code-scratcher\Add, Edit, Delete Data in WPF with Access Database - CODE SCRATCHER\WPF_AccessDB\bin\Debug\WPF_AccessDB.pdb

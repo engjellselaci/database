@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Tietokanta\Tietokanta\Tietokanta\bin\Debug\WPF_AccessDB.exe
+C:\Users\admin\Desktop\Tietokanta\Tietokanta\Tietokanta\bin\Debug\WPF_AccessDB.pdb
+C:\Users\admin\Desktop\Tietokanta\Tietokanta\Tietokanta\obj\x86\Debug\Tietokanta.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Tietokanta\Tietokanta\Tietokanta\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Tietokanta\Tietokanta\Tietokanta\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Tietokanta\Tietokanta\Tietokanta\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\Tietokanta\Tietokanta\Tietokanta\obj\x86\Debug\WPF_AccessDB_MarkupCompile.cache
+C:\Users\admin\Desktop\Tietokanta\Tietokanta\Tietokanta\obj\x86\Debug\WPF_AccessDB.g.resources
+C:\Users\admin\Desktop\Tietokanta\Tietokanta\Tietokanta\obj\x86\Debug\WPF_AccessDB.Properties.Resources.resources
+C:\Users\admin\Desktop\Tietokanta\Tietokanta\Tietokanta\obj\x86\Debug\Tietokanta.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Tietokanta\Tietokanta\Tietokanta\obj\x86\Debug\Tietokanta.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tietokanta\Tietokanta\Tietokanta\obj\x86\Debug\WPF_AccessDB.exe
+C:\Users\admin\Desktop\Tietokanta\Tietokanta\Tietokanta\obj\x86\Debug\WPF_AccessDB.pdb
